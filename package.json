@@ -1,0 +1,24 @@
+{
+  "name": "sascha-data-scraping",
+  "version": "1.0.0",
+  "description": "Pull data from a website and send custom message to twitter and telegram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilarout/sascha-data-scraping.git"
+  },
+  "author": "Manas Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilarout/sascha-data-scraping/issues"
+  },
+  "homepage": "https://github.com/manasnilarout/sascha-data-scraping#readme",
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "sqlite3": "5.0.8",
+    "xlsx": "0.18.5"
+  }
+}
